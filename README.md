@@ -72,3 +72,7 @@ Open index2.html in a browser.
 
 ### Question 3
 Open index3.html in a browser.
+
+---
+
+Through this lab, I learned how to use JavaScript to create interactive web pages. I practiced using functions, event listeners, conditional statements, and loops. I also learned how to manipulate HTML elements using DOM methods. The exercises improved my understanding of input validation and dynamic content generation. Overall, this lab strengthened my JavaScript programming skills.
