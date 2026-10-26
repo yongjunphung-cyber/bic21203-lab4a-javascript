@@ -6,6 +6,7 @@ No.Matrik : CI260012
 
 Question 1
 Interactive Text Changer using JavaScript functions and event listeners.
+![Q1 After](Q1 after.png)
 
 Question 2
 Smart Number Validator using input validation and if-else statements.
